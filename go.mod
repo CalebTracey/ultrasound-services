@@ -1,3 +1,3 @@
-module github.ultrasound.com/CalebTracey/ultrasound-services
+module github.com/CalebTracey/ultrasound-services
 
 go 1.17
